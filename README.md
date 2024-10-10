@@ -2,7 +2,7 @@
 
 ## Backend
 - [Example for Backend auth&no-auth](https://github.com/tx00-resources/week7-bepp)
-- 
+
 ### File Structure
 #### withAuth
 server/    
