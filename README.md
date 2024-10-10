@@ -12,8 +12,8 @@ server/
 │   ├── itemController.js (CRUD logic for items) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/controllers/userControllers.js)        
 │   └── userController.js (User registration, login, and management) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/controllers/jobControllers.js)        
 ├── models/    
-│   ├── itemModel.js (Mongoose schema for items) [cm2]([https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/models/jobModel.js)  
-│   └── userModel.js (Mongoose schema for users) [cm2]([https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/models/userModel.js)   
+│   ├── itemModel.js (Mongoose schema for items) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/models/jobModel.js)  
+│   └── userModel.js (Mongoose schema for users) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/models/userModel.js)   
 ├── routes/  
 │   ├── itemRoutes.js (API routes for items) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/routes/jobRouter.js)  
 │   └── userRoutes.js (API routes for users) [cm2](https://github.com/JY1Z/collaborative-project-2/blob/main/backend/api-server-starter/routes/userRouter.js)    
