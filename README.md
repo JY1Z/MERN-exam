@@ -39,7 +39,7 @@ DELETE: itemID(delete)
 
 ## Frontend
 - [CRUD, User Authentication, Protected Routes](https://github.com/tx00-resources/week7-fepp/tree/branch7-protect-jobs/frontend/src)
-- [It will fully prepare you for the front-end portion of the exam.](https://github.com/tx00-web-en/Activities/blob/week7/material/fepp.md)
+- [It will fully prepare you for the front-end portion of the exam.](https://github.com/tx00-web-en/Activities/blob/week7/material/fepp.md)  [answer](https://github.com/JY1Z/week7-fe-pp)
 1. JWT auth 
 2. fetch+CURD (useEffect hook)
 
