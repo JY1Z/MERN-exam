@@ -34,7 +34,7 @@ DELETE: itemID(delete)
 /api/tours
 
 ### Backend testing
-- [BE pp](https://github.com/tx00-web-en/Activities/blob/week7/material/bepp.md)
+- [BE pp](https://github.com/tx00-web-en/Activities/blob/week7/material/bepp.md) [answer](https://github.com/JY1Z/week7-be-pp)
 - week 6 activities 
 
 ## Frontend
